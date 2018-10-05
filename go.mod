@@ -58,7 +58,7 @@ require (
 	github.com/stretchr/testify v1.2.2 // indirect
 	github.com/tarm/serial v0.0.0-20180114052751-eaafced92e96
 	go.opencensus.io v0.14.0 // indirect
-	go4.org v0.0.0-20180417224846-9599cf28b011
+	go4.org v0.0.0-20181005185510-417644f6feb5
 	golang.org/x/crypto v0.0.0-20180807104621-f027049dab0a
 	golang.org/x/net v0.0.0-20180808004115-f9ce57c11b24
 	golang.org/x/oauth2 v0.0.0-20180724155351-3d292e4d0cdc

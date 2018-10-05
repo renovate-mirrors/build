@@ -117,6 +117,7 @@ go.opencensus.io v0.14.0 h1:1eTLxqxSIAylcKoxnNkdhvvBNZDA8JwkKNXxgyma0IA=
 go.opencensus.io v0.14.0/go.mod h1:UffZAU+4sDEINUGP/B7UfBBkq4fqLu9zXAX7ke6CHW0=
 go4.org v0.0.0-20180417224846-9599cf28b011 h1:i0QTVNl3j6yciHiQIHxz+mnsSQqo/xi78EGN7yNpMVw=
 go4.org v0.0.0-20180417224846-9599cf28b011/go.mod h1:MkTOUMDaeVYJUOUsaDXIhWPZYa1yOyC1qaOBpL57BhE=
+go4.org v0.0.0-20181005185510-417644f6feb5/go.mod h1:MkTOUMDaeVYJUOUsaDXIhWPZYa1yOyC1qaOBpL57BhE=
 golang.org/x/crypto v0.0.0-20180807104621-f027049dab0a h1:PulT0Y50PcfTWomfsD39bSQyVrjjWdIuJKfyR4nOCJw=
 golang.org/x/crypto v0.0.0-20180807104621-f027049dab0a/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
 golang.org/x/net v0.0.0-20180808004115-f9ce57c11b24 h1:mEsFm194MmS9vCwxFy+zwu0EU7ZkxxMD1iH++vmGdUY=
