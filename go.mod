@@ -34,7 +34,7 @@ require (
 	github.com/sergi/go-diff v1.0.0 // indirect
 	github.com/shurcooL/component v0.0.0-20170202220835-f88ec8f54cc4 // indirect
 	github.com/shurcooL/events v0.0.0-20180517181903-37636e399bf5 // indirect
-	github.com/shurcooL/github_flavored_markdown v0.0.0-20180602233135-8913699a52e3 // indirect
+	github.com/shurcooL/github_flavored_markdown v0.0.0-20181005174818-2122de532470 // indirect
 	github.com/shurcooL/go v0.0.0-20180423040247-9e1955d9fb6e // indirect
 	github.com/shurcooL/go-goon v0.0.0-20170922171312-37c2f522c041 // indirect
 	github.com/shurcooL/gofontwoff v0.0.0-20180329035133-29b52fc0a18d
