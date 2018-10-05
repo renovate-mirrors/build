@@ -56,7 +56,7 @@ require (
 	github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d // indirect
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e // indirect
 	github.com/stretchr/testify v1.2.2 // indirect
-	github.com/tarm/serial v0.0.0-20180114052751-eaafced92e96
+	github.com/tarm/serial v0.0.0-20181005185504-98f6abe2eb07
 	go.opencensus.io v0.14.0 // indirect
 	go4.org v0.0.0-20180417224846-9599cf28b011
 	golang.org/x/crypto v0.0.0-20180807104621-f027049dab0a

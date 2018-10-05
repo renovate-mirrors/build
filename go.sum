@@ -113,6 +113,7 @@ github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/tarm/serial v0.0.0-20180114052751-eaafced92e96 h1:pLss0TM/G46eE2p8NIRYIlB12vrPvWXiqDoCKA52wwQ=
 github.com/tarm/serial v0.0.0-20180114052751-eaafced92e96/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
+github.com/tarm/serial v0.0.0-20181005185504-98f6abe2eb07/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
 go.opencensus.io v0.14.0 h1:1eTLxqxSIAylcKoxnNkdhvvBNZDA8JwkKNXxgyma0IA=
 go.opencensus.io v0.14.0/go.mod h1:UffZAU+4sDEINUGP/B7UfBBkq4fqLu9zXAX7ke6CHW0=
 go4.org v0.0.0-20180417224846-9599cf28b011 h1:i0QTVNl3j6yciHiQIHxz+mnsSQqo/xi78EGN7yNpMVw=
