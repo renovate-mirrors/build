@@ -20,7 +20,7 @@ require (
 	github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135 // indirect
 	github.com/google/martian v2.0.0-beta.2.0.20180813215018-c223d6f7955e+incompatible // indirect
 	github.com/googleapis/gax-go v2.0.0+incompatible // indirect
-	github.com/gopherjs/gopherjs v0.0.0-20180628210949-0892b62f0d9f // indirect
+	github.com/gopherjs/gopherjs v0.0.0-20181017135231-0766667cb4d1 // indirect
 	github.com/gregjones/httpcache v0.0.0-20180305231024-9cad4c3443a7
 	github.com/jellevandenhooff/dkim v0.0.0-20150330215556-f50fe3d243e1
 	github.com/kisielk/gotool v1.0.0 // indirect
