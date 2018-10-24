@@ -67,6 +67,7 @@ github.com/shurcooL/component v0.0.0-20170202220835-f88ec8f54cc4 h1:Fth6mevc5rX7
 github.com/shurcooL/component v0.0.0-20170202220835-f88ec8f54cc4/go.mod h1:XhFIlyj5a1fBNx5aJTbKoIq0mNaPvOagO+HjB3EtxrY=
 github.com/shurcooL/events v0.0.0-20180517181903-37636e399bf5 h1:GVOuJ8d1JVPK92esG1Hsi25BpDUDMUaYNW8VJ3cTscQ=
 github.com/shurcooL/events v0.0.0-20180517181903-37636e399bf5/go.mod h1:5u70Mqkb5O5cxEA8nxTsgrgLehJeAw6Oc4Ab1c/P1HM=
+github.com/shurcooL/events v0.0.0-20181024130524-410e4ca65f48/go.mod h1:5u70Mqkb5O5cxEA8nxTsgrgLehJeAw6Oc4Ab1c/P1HM=
 github.com/shurcooL/github_flavored_markdown v0.0.0-20180602233135-8913699a52e3 h1:s0O6f6okLB5xGUH7dtyZyg6HKGLKlC9gj4smz91fGWo=
 github.com/shurcooL/github_flavored_markdown v0.0.0-20180602233135-8913699a52e3/go.mod h1:19y9eBxWq15wrq3NRr6osGtk0dkbHhO6uznyrOtrBsE=
 github.com/shurcooL/go v0.0.0-20180423040247-9e1955d9fb6e h1:MZM7FHLqUHYI0Y/mQAt3d2aYa0SiNms/hFqC9qJYolM=
