@@ -16,7 +16,7 @@ require (
 	github.com/gliderlabs/ssh v0.1.1
 	github.com/golang/protobuf v1.2.0
 	github.com/google/go-cmp v0.2.0
-	github.com/google/go-github v17.0.0+incompatible
+	github.com/google/go-github v18.2.0
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/google/martian v2.1.0+incompatible // indirect
 	github.com/googleapis/gax-go v2.0.0+incompatible // indirect
