@@ -8,7 +8,7 @@ require (
 	dmitri.shuralyov.com/state v0.0.0-20180228185332-28bcc343414c // indirect
 	github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239 // indirect
 	github.com/bradfitz/go-smtpd v0.0.0-20170404230938-deb6d6237625
-	github.com/coreos/go-systemd v0.0.0-20181012123002-c6f51f82210d
+	github.com/coreos/go-systemd v0.0.0-20181031140705-9002847aa142
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
