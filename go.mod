@@ -60,7 +60,7 @@ require (
 	golang.org/x/net v0.0.0-20181029044818-c44066c5c816
 	golang.org/x/oauth2 v0.0.0-20181017192945-9dcd33a902f4
 	golang.org/x/perf v0.0.0-20180704124530-6e6d33e29852
-	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
+	golang.org/x/sync v0.0.0-20181221193942-37e7f081c4d4
 	golang.org/x/sys v0.0.0-20181029174526-d69651ed3497
 	golang.org/x/text v0.3.1-0.20180807135948-17ff2d5776d2 // indirect
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
