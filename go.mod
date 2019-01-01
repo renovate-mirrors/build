@@ -37,7 +37,7 @@ require (
 	github.com/shurcooL/gopherjslib v0.0.0-20160914041154-feb6d3990c2c // indirect
 	github.com/shurcooL/highlight_diff v0.0.0-20170515013008-09bb4053de1b // indirect
 	github.com/shurcooL/highlight_go v0.0.0-20181028180052-98c3abbbae20 // indirect
-	github.com/shurcooL/home v0.0.0-20181020052607-80b7ffcb30f9 // indirect
+	github.com/shurcooL/home v0.0.0-20190101085006-abbc719fee53 // indirect
 	github.com/shurcooL/htmlg v0.0.0-20170918183704-d01228ac9e50 // indirect
 	github.com/shurcooL/httperror v0.0.0-20170206035902-86b7830d14cc // indirect
 	github.com/shurcooL/httpfs v0.0.0-20171119174359-809beceb2371 // indirect
