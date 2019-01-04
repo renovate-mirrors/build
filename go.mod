@@ -33,7 +33,7 @@ require (
 	github.com/shurcooL/component v0.0.0-20170202220835-f88ec8f54cc4 // indirect
 	github.com/shurcooL/events v0.0.0-20181021180414-410e4ca65f48 // indirect
 	github.com/shurcooL/github_flavored_markdown v0.0.0-20181002035957-2122de532470 // indirect
-	github.com/shurcooL/gofontwoff v0.0.0-20180329035133-29b52fc0a18d
+	github.com/shurcooL/gofontwoff v0.0.0-20181122055825-180f79e6909d
 	github.com/shurcooL/gopherjslib v0.0.0-20160914041154-feb6d3990c2c // indirect
 	github.com/shurcooL/highlight_diff v0.0.0-20170515013008-09bb4053de1b // indirect
 	github.com/shurcooL/highlight_go v0.0.0-20181028180052-98c3abbbae20 // indirect
