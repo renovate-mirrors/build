@@ -98,6 +98,7 @@ github.com/shurcooL/gopherjslib v0.0.0-20160914041154-feb6d3990c2c h1:UOk+nlt1BJ
 github.com/shurcooL/gopherjslib v0.0.0-20160914041154-feb6d3990c2c/go.mod h1:8d3azKNyqcHP1GaQE/c6dDgjkgSx2BZ4IoEi4F1reUI=
 github.com/shurcooL/highlight_diff v0.0.0-20170515013008-09bb4053de1b h1:vYEG87HxbU6dXj5npkeulCS96Dtz5xg3jcfCgpcvbIw=
 github.com/shurcooL/highlight_diff v0.0.0-20170515013008-09bb4053de1b/go.mod h1:ZpfEhSmds4ytuByIcDnOLkTHGUI6KNqRNPDLHDk+mUU=
+github.com/shurcooL/highlight_diff v0.0.0-20190102185418-111da2e7d480/go.mod h1:ZpfEhSmds4ytuByIcDnOLkTHGUI6KNqRNPDLHDk+mUU=
 github.com/shurcooL/highlight_go v0.0.0-20181028180052-98c3abbbae20 h1:7pDq9pAMCQgRohFmd25X8hIH8VxmT3TaDm+r9LHxgBk=
 github.com/shurcooL/highlight_go v0.0.0-20181028180052-98c3abbbae20/go.mod h1:UDKB5a1T23gOMUJrI+uSuH0VRDStOiUVSjBTRDVBVag=
 github.com/shurcooL/home v0.0.0-20181020052607-80b7ffcb30f9 h1:MPblCbqA5+z6XARjScMfz1TqtJC7TuTRj0U9VqIBs6k=
