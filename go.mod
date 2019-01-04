@@ -56,7 +56,7 @@ require (
 	github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
 	go.opencensus.io v0.18.0 // indirect
 	go4.org v0.0.0-20180809161055-417644f6feb5
-	golang.org/x/crypto v0.0.0-20181030102418-4d3f4d9ffa16
+	golang.org/x/crypto v0.0.0-20190103215823-ff983b9c42bc
 	golang.org/x/net v0.0.0-20181029044818-c44066c5c816
 	golang.org/x/oauth2 v0.0.0-20181017192945-9dcd33a902f4
 	golang.org/x/perf v0.0.0-20180704124530-6e6d33e29852
