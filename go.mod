@@ -1,7 +1,7 @@
 module golang.org/x/build
 
 require (
-	cloud.google.com/go v0.31.0
+	cloud.google.com/go v0.34.0
 	dmitri.shuralyov.com/app/changes v0.0.0-20180602232624-0a106ad413e3
 	dmitri.shuralyov.com/html/belt v0.0.0-20180602232347-f7d459c86be0 // indirect
 	dmitri.shuralyov.com/service/change v0.0.0-20181023043359-a85b471d5412
