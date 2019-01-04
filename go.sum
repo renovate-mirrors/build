@@ -116,6 +116,7 @@ github.com/shurcooL/issuesapp v0.0.0-20180602232740-048589ce2241 h1:Y+TeIabU8sJD
 github.com/shurcooL/issuesapp v0.0.0-20180602232740-048589ce2241/go.mod h1:NPpHK2TI7iSaM0buivtFUc9offApnI0Alt/K8hcHy0I=
 github.com/shurcooL/notifications v0.0.0-20181007000457-627ab5aea122 h1:TQVQrsyNaimGwF7bIhzoVC9QkKm4KsWd8cECGzFx8gI=
 github.com/shurcooL/notifications v0.0.0-20181007000457-627ab5aea122/go.mod h1:b5uSkrEVM1jQUspwbixRBhaIjIzL2xazXp6kntxYle0=
+github.com/shurcooL/notifications v0.0.0-20181112110352-bcc2b3082a7a/go.mod h1:b5uSkrEVM1jQUspwbixRBhaIjIzL2xazXp6kntxYle0=
 github.com/shurcooL/octicon v0.0.0-20181028054416-fa4f57f9efb2 h1:bu666BQci+y4S0tVRVjsHUeRon6vUXmsGBwdowgMrg4=
 github.com/shurcooL/octicon v0.0.0-20181028054416-fa4f57f9efb2/go.mod h1:eWdoE5JD4R5UVWDucdOPg1g2fqQRq78IQa9zlOV1vpQ=
 github.com/shurcooL/reactions v0.0.0-20181006231557-f2e0b4ca5b82 h1:LneqU9PHDsg/AkPDU3AkqMxnMYL+imaqkpflHu73us8=

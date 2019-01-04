@@ -44,7 +44,7 @@ require (
 	github.com/shurcooL/httpgzip v0.0.0-20180522190206-b1c53ac65af9
 	github.com/shurcooL/issues v0.0.0-20181008053335-6292fdc1e191
 	github.com/shurcooL/issuesapp v0.0.0-20180602232740-048589ce2241
-	github.com/shurcooL/notifications v0.0.0-20181007000457-627ab5aea122 // indirect
+	github.com/shurcooL/notifications v0.0.0-20181112110352-bcc2b3082a7a // indirect
 	github.com/shurcooL/octicon v0.0.0-20181028054416-fa4f57f9efb2 // indirect
 	github.com/shurcooL/reactions v0.0.0-20181006231557-f2e0b4ca5b82 // indirect
 	github.com/shurcooL/sanitized_anchor_name v0.0.0-20170918181015-86672fcb3f95 // indirect
